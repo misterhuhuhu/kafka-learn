@@ -1,0 +1,1 @@
+## [如何确定偏移值 ](https://www.baeldung.com/java-kafka-consumer-lag)
